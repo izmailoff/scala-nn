@@ -4,7 +4,7 @@
 # Test Coverage
 [![Coverage Status](https://coveralls.io/repos/izmailoff/scala-nn/badge.svg?branch=master)](https://coveralls.io/r/izmailoff/scala-nn?branch=master)
 
-# scala-nn
+# Scala-NN
 A Neural Network (NN) implemented in Scala from scratch.
 
 ## What?
@@ -29,7 +29,7 @@ Have java runtime JVM 8 installed. To build run from shell:
 
 This will download dependencies, compile the code, run all the tests and create a self-contained JAR file. After the build is done run the JAR with:
 
-	> java -jar target/scala-2.12/scala-machine-learning-assembly-0.1.jar
+	> java -jar target/scala-2.12/scala-nn-assembly-0.1.jar
 
 Default settings can be changed via `-D` Java arguments. For more info see `reference.conf` file.
 
