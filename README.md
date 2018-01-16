@@ -1,3 +1,9 @@
+# Build Status
+[![Build Status](https://travis-ci.org/izmailoff/scala-nn.png?branch=master)](https://travis-ci.org/izmailoff/scala-nn)
+
+# Test Coverage
+[![Coverage Status](https://coveralls.io/repos/izmailoff/scala-nn/badge.svg?branch=master)](https://coveralls.io/r/izmailoff/scala-nn?branch=master)
+
 # scala-nn
 A Neural Network (NN) implemented in Scala from scratch.
 
